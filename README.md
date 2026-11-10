@@ -25,27 +25,31 @@
 - Conducting research on mobility and transportation data analysis
 - First author of three conference presentations (APTE 2026; KITS 2026 Spring and Fall Conferences)
 
-## 📄 Conference Presentations
+## 📄 학회 발표
 
-| Date | Title | Venue | |
-|:---:|---|---|:---:|
-| Nov. 2026 | **A Course Recommendation Method That Disperses Tourist Demand While Maintaining User Satisfaction** | KITS 2026 Fall Conference (Nov. 12–13) · 1st Author · *Upcoming* | |
-| Jul. 2026 | **Analysis of Factors Associated with Injury Severity in Freeway Crashes Based on XGBoost–SHAP Algorithm** | APTE 2026 (15th Asia-Pacific Conference on Transportation and the Environment), Jeju · Poster · 1st Author | [Code](https://github.com/LSB-afk/APTE-) |
-| Apr. 2026 | **A Study on Site Selection of Charging Facilities for Electric Mobility Aids for Mobility-Disadvantaged Persons** | KITS 2026 Spring Conference · Poster · 1st Author | |
+- 📄 **사용자 만족과 방문 분산의 균형을 고려한 방문 코스 추천 방법**<br>
+  한국ITS학회 2026 추계학술대회 · 1저자 · 발표 예정 (2026.11.12–13)
+- 📄 **Analysis of Factors Associated with Injury Severity in Freeway Crashes Based on XGBoost–SHAP Algorithm**<br>
+  APTE 2026 (제15회 아시아태평양 교통·환경 학술대회, 제주) · 1저자 · 포스터 발표 (2026.07) · [분석 코드](https://github.com/LSB-afk/APTE-)
+- 📄 **교통약자를 위한 전동보장구 충전시설 입지선정에 관한 연구**<br>
+  한국ITS학회 2026 춘계학술대회 · 1저자 · 포스터 발표 (2026.04)
 
-*KITS = The Korea Institute of Intelligent Transport Systems*
+## 🛠 대표 프로젝트
 
-## 🛠 Featured Projects
-
-| Project | Description | Highlight |
-|---|---|---|
-| [**Freeway Crash Injury Analysis**](https://github.com/LSB-afk/APTE-) | Predicts injury occurrence from 14 pre-accident conditions across 83,297 freeway crashes (2011–2019) and interprets risk structure with SHAP | ROC-AUC 0.785 · APTE 2026 |
-| [**HagentOS**](https://github.com/River-181/hagent-os) *(team)* | AI agent operating platform for private academies — role-based agents draft responses, the director approves in one click | 🥇 1등(대상) · KEG 바이브코딩 콘테스트 |
-| [**MoveValue**](https://github.com/LSB-afk/-Future-Value-Level-up-Challenge-) | Land & transport data–based service that ranks neighborhoods by commute time, housing cost, transit access, and safety · [Live Demo](https://lsb-afk.github.io/-Future-Value-Level-up-Challenge-/) | 🥉 우수상 · 2026 국토교통 서비스 발굴 경연 |
-| [**JByond**](https://github.com/LSB-afk/JBFinAI-GoLAB-JByond) | AI agent operating console that gathers regional financial risk signals, with a human-approval gate before any customer-facing action | 🏅 입선 · JB금융그룹 Fin:AI Challenge |
-| [**INFORMS RAS 2026**](https://github.com/LSB-afk/informs-ras-2026-blocking) | Solution pipeline for the railroad blocking problem of North American Class I railroads | Problem Solving Competition |
-| [**Playing Daejeon**](https://github.com/LSB-afk/Playing-Dajeon) | SwiftUI iOS app that turns a single visit in Daejeon into a themed local exploration course | iOS · SwiftUI |
-| [**Wind Power Forecasting**](https://github.com/LSB-afk/wind-power-generation-AI) | Hourly wind-farm power forecasting from LDAPS/GFS weather forecast data | DACON |
+- 🚗 **[고속도로 교통사고 인명피해 요인 분석](https://github.com/LSB-afk/APTE-) · APTE 2026**<br>
+  2011–2019년 고속도로 교통사고 83,297건에서 사고 전 조건 14개 변수로 인명피해 발생을 예측하고, SHAP으로 위험 구조를 해석했습니다. (ROC-AUC 0.785)
+- 🤖 **[HagentOS](https://github.com/River-181/hagent-os) · KEG 바이브코딩 콘테스트 1등(대상)** *(팀 프로젝트)*<br>
+  역할별 AI 에이전트가 답변 초안을 만들고 원장이 한 번에 승인하는 학원 운영 플랫폼입니다.
+- 🏙️ **[MoveValue](https://github.com/LSB-afk/-Future-Value-Level-up-Challenge-) · 2026 국토교통 서비스 발굴 경연 우수상**<br>
+  통근시간·주거비·대중교통 접근성·안전 지표로 생활권을 추천하는 국토교통 데이터 기반 서비스입니다. ([라이브 데모](https://lsb-afk.github.io/-Future-Value-Level-up-Challenge-/))
+- 🏦 **[JByond](https://github.com/LSB-afk/JBFinAI-GoLAB-JByond) · JB금융그룹 Fin:AI Challenge 입선**<br>
+  지역 금융 고객의 위험 신호를 모아 처리하되, 고객 대상 행동은 사람의 승인 전까지 막는 AI 에이전트 운영 콘솔입니다.
+- 🚆 **[INFORMS RAS 2026](https://github.com/LSB-afk/informs-ras-2026-blocking) · Problem Solving Competition**<br>
+  북미 Class I 철도의 블로킹 문제를 정리하고 해결 파이프라인을 만들었습니다.
+- 📱 **[놀거많은대?전 (Playing Daejeon)](https://github.com/LSB-afk/Playing-Dajeon) · iOS 앱**<br>
+  대전의 한 곳 방문을 테마 골목 탐방 코스로 이어 주는 SwiftUI 기반 iOS 앱입니다.
+- 🌬️ **[풍력발전량 예측 AI](https://github.com/LSB-afk/wind-power-generation-AI) · DACON**<br>
+  기상예보 데이터(LDAPS·GFS)로 풍력단지의 시간별 발전량을 예측했습니다.
 
 ## 🧰 Tech Stack
 
@@ -97,15 +101,21 @@
 - 🥇 **대상 · 혁신파크 활성화 공모전**<br>
   혁신파크 활성화 공모전에서 대상(대전관광공사 사장상)을 수상했습니다. (2025.05)
 
-## 🌱 Extracurricular Activities
+## 🌱 대외활동
 
-| Period | Program | Status |
-|:---:|---|---|
-| 2026 – Present | **Startup for All (Cohort 2)** — Advanced to Round 2 | In Progress |
-| May 2026 – Present | **Lab-Specialized Startup Program** | Selected |
-| Jul. 2026 | **KAIST ICISTS GRAFFITI** | Completed |
-| Jun. – Jul. 2026 | **KAIST The 4th Summer Camp** | Completed |
-| Feb. 2026 | **Local Artisan School Support Program** | Completed |
-| Sep. – Oct. 2025 | **Pre-Startup Package** — Pre-Incubation Program | Completed |
-| Jul. – Aug. 2025 | **Data Explorer Bootcamp** | Completed |
-| Apr. – Jun. 2025 | **ABC Mentoring Program** | Completed |
+- 🚀 **모두의창업 2기 · 2라운드 진출**<br>
+  진행 중 (2026 – 현재)
+- 🧪 **실험실특화창업 사업 · 선정**<br>
+  진행 중 (2026.05 – 현재)
+- 🎓 **KAIST ICISTS GRAFFITI · 수료**<br>
+  (2026.07)
+- 🎓 **KAIST The 4th Summer Camp · 수료**<br>
+  (2026.06 – 2026.07)
+- 🏘️ **로컬 장인학교 지원 사업 · 수료**<br>
+  (2026.02)
+- 🌱 **예비창업패키지 사전 인큐베이팅 프로그램 · 수료**<br>
+  (2025.09 – 2025.10)
+- 📊 **데이터탐험가 부트캠프 · 수료**<br>
+  (2025.07 – 2025.08)
+- 🤝 **ABC 멘토링 · 수료**<br>
+  (2025.04 – 2025.06)
