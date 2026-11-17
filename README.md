@@ -4,7 +4,7 @@
 
 **한남대학교 AI데이터사이언스 연구실 학부연구생**
 
-*교통안전 · 모빌리티 데이터 분석 · 설명 가능한 AI*
+*AI agent · 알고리즘*
 
 [![Email](https://img.shields.io/badge/seungbo.kr@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seungbo.kr@gmail.com)
 [![GitHub](https://img.shields.io/badge/LSB--afk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LSB-afk)
