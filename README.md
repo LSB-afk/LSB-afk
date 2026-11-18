@@ -49,6 +49,11 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-FF0051?style=flat-square)
 
+## 📜 자격증
+
+- 📜 **Zetaris x SpaceXSI AI Data Harness Solution Developer**<br>
+  Zetaris 발급 · Open Agent Hackathon에서 Zetaris Data Harness 기반 AI 에이전트를 개발해 취득 (2026.11) · [자격 확인](https://www.zetaris.com/credentials/ztr-dhsd-7yrssz)
+
 ## 🏆 수상
 
 ### 교외
